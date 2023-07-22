@@ -11,6 +11,6 @@ A web app manage all of activities of tour, such as: manage location, manage boo
 
 **Database:** Microsoft SQL Server, Amazon RDS
 
-## Main resources
+## Main repository at
 
 https://github.com/datntse150392/NTNE_BE_SWP391.git
